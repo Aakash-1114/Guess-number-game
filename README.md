@@ -24,7 +24,7 @@ The computer randomly selects a number between **1 to 100**, and the user tries 
 
 - Run the file: python guessing_game.py
 
-
+---
 
   ⭐ Features
 
@@ -35,3 +35,11 @@ The computer randomly selects a number between **1 to 100**, and the user tries 
 - Interactive hints (too big / too small)
 
 - Beginner-friendly logic
+
+
+---
+
+
+👨‍💻 Author
+
+Aakash Gupta 🕹 Beginner Python Developer 📧 Feel free to connect or share feedback!
