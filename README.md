@@ -1,44 +1,42 @@
-# 🎯 Number Guessing Game (Python)
-
-This is a simple and fun **Number Guessing Game** built using Python.  
-The computer randomly selects a number between **1 to 100**, and the user tries to guess it.
+## 🎯 Number Guessing Game (Python)
+A simple and fun Number Guessing Game built using Python.
+The computer randomly selects a number between 1 and 100, and the user tries to guess it correctly.
 
 ---
 
 ## 🧠 How the Game Works
-- The program generates a random number.
-- The user keeps guessing until:
-  - They guess correctly 🎉  
-  - OR they type **"Quit"** to exit.
-- The game gives feedback:
-  - "Too small" → guess higher
-  - "Too big" → guess smaller
+The program generates a random number between 1–100
+The user keeps guessing the number
+The game provides hints:
+🔽 Too small → guess higher
+🔼 Too big → guess lower
+The game ends when:
+✅ Correct number is guessed
+❌ User types "Quit"
 
 ---
 
-🚀 How to Run
-
-- Install Python (if not installed)
-
-- Save the code as guessing_game.py
-
-- Run the file: python guessing_game.py
+## 🚀 How to Run the Program
+Make sure Python is installed on your system
+Save the file as: guessing_game.py
+Run the program using: python guessing_game.py
 
 ---
 
-  ⭐ Features
-
-- Quit option ("Quit")
-
-- Random number generation
-
-- Interactive hints (too big / too small)
-
-- Beginner-friendly logic
-
+## ⭐ Features
+Random number generation using Python
+Quit option (Quit)
+User-friendly messages
+Beginner-friendly logic
+Infinite attempts until correct guess
+🛠 Concepts Used
+while loop
+if-elif-else
+input() handling
+random module
+Type conversion (int())
 
 ---
-
 
 👨‍💻 Author
 
